@@ -3,7 +3,7 @@ A junior high school student passionate about software development. I plan to st
 
 🔭 I’m currently working on some mini projects to improve my skills.
 🌱 I’m currently learning Python, Web Development, Data Science, AI ...
-📫 How to reach me: LinkedIn ( https://www.linkedin.com/in/ilknur-yaren-k-51058831b/ ) or E-mail ( dcsplash1070@gmail.com )
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/selim-emre-er-4118b6298/) or [E-mail](dcsplash1070@gmail.com)
 💻 Tech Stack:
 Python HTML5 CSS3 JavaScript Flask Canva NumPy Matplotlib Arduino
 
